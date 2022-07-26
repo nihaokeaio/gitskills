@@ -1,1 +1,1 @@
-Git is a free softwares,boss is shabi.
+Git is a free software.
