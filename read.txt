@@ -1,3 +1,4 @@
 count=1
 cat=3
 apple=2
+Linux=6
