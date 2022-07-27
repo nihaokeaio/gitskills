@@ -179,11 +179,7 @@ int main(){
 	vector<int>postorder = {7,4,2,5,8,6,3,1};
 	vector<int>byorder = {1,2,3,4,5,6,7,8};
 	vector<int>in_expand = {1, 2, 4, -1, 7, -1, -1, -1, 3, 5, -1, -1, 6, 8, -1, -1, -1};//中序数组
-<<<<<<< HEAD
 	cout<<"I am Windows Dev link!\n";
-=======
-	cout<<"Bye see you!\n";
->>>>>>> 12651f738cc4e0e8808786db89e66dcdead7bff5
 	CreatTree tree;
 	tree.root=tree.creatTree_expand(in_expand);
 	//tree.pre_inTreeNode();
